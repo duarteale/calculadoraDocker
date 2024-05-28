@@ -1,0 +1,2 @@
+# pruebaDocker
+Creacion de Dockerfile
